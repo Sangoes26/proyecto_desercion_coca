@@ -1,0 +1,11 @@
+﻿Base,Problema,Decisión,Efecto
+MEN,códigos DANE sin el cero inicial,rellenar con ceros (zfill),sin esto se pierden en la unión
+MEN,3 filas con código 0 (sin municipio),eliminarlas,"quedan 15,704 filas"
+MEN,1 valor(es) con separador de miles (Bogotá 2021),quitar la coma antes de convertir a número,en la 2.ª entrega ese valor quedaba vacío
+Coca,3084 celdas vacías (el SIMCI no escribe ceros),melt a formato largo y vacío = 0 ha,319 municipios x 24 años (2001-2024)
+Víctimas,la base original apila 31 fechas de corte,se descargó solo el corte 31/08/2026 y se verifica que haya uno,evita inflar las víctimas ~31 veces
+Víctimas,no existe columna de hecho victimizante,no se puede separar por tipo de hecho,limitación documentada
+IPM,se usaba solo el IPM agregado y un promedio de privaciones,"cargar IPM, IPM por zona y las 15 privaciones",18 variables de pobreza 2018
+IPM,"hoja 8 (privaciones por zona, 45 columnas)",descartar por redundancia con las privaciones totales,mediana de correlación total-rural = 0.91
+Población,no trae estructura por edad,usar población 5-16 del MEN / población total del DANE,proporción en edad escolar
+PAE,solo existe por departamento,excluir: colinealidad perfecta con las dummies de departamento,el rango de la matriz no cambia al agregarla

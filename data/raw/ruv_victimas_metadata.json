@@ -1,0 +1,1069 @@
+{
+  "id" : "m64i-rnss",
+  "name" : "VICTIMAS POR AÑOS MUNICIPAL",
+  "assetType" : "dataset",
+  "attribution" : "Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, Bogotá D.C.",
+  "attributionLink" : "https://www.unidadvictimas.gov.co",
+  "averageRating" : 0,
+  "category" : "Inclusión Social y Reconciliación",
+  "createdAt" : 1597209554,
+  "description" : "VICTIMAS POR AÑOS MUNICIPAL",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 683,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "licenseId" : "CC_40_BY_SA",
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 34924601,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1597210329,
+  "publicationGroup" : 17434607,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1789587055,
+  "rowsUpdatedBy" : "canp-zw9a",
+  "tableId" : 17434607,
+  "totalTimesRated" : 0,
+  "viewCount" : 3125,
+  "viewLastModified" : 1779128779,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1609187806,
+    "reviewedAutomatically" : false,
+    "state" : "approved",
+    "submissionId" : 3068280,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1609173135,
+    "targetAudience" : "public",
+    "workflowId" : 2188,
+    "reviewer" : {
+      "id" : "r4qn-dwdd",
+      "displayName" : "Ministerio de Tecnologías de la Información y las Comunicaciones - Datos Abiertos"
+    },
+    "submissionDetails" : {
+      "permissionType" : "read"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1609187806,
+      "failureCount" : 0,
+      "startedAt" : 1609187806,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "canp-zw9a",
+      "displayName" : "Unidad para las Victimas"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 487507232,
+    "name" : "FECHA_CORTE",
+    "dataTypeName" : "text",
+    "description" : "Fecha de Corte a la fecha que se recolectaron los datos",
+    "fieldName" : "fecha_corte",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767797,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "31/12/24",
+      "null" : "0",
+      "top" : [ {
+        "item" : "30/04/2025",
+        "count" : "2317444"
+      }, {
+        "item" : "31/08/2026",
+        "count" : "1185866"
+      }, {
+        "item" : "31/05/2026",
+        "count" : "1185668"
+      }, {
+        "item" : "31/07/2026",
+        "count" : "1182386"
+      }, {
+        "item" : "30/04/2026",
+        "count" : "1182245"
+      }, {
+        "item" : "30/06/2026",
+        "count" : "1179074"
+      }, {
+        "item" : "31/03/2026",
+        "count" : "1177955"
+      }, {
+        "item" : "31/12/2025",
+        "count" : "1177485"
+      }, {
+        "item" : "31/01/2026",
+        "count" : "1176362"
+      }, {
+        "item" : "28/02/2026",
+        "count" : "1176199"
+      }, {
+        "item" : "30/11/2025",
+        "count" : "1175575"
+      }, {
+        "item" : "31/10/2025",
+        "count" : "1173681"
+      }, {
+        "item" : "30/09/2025",
+        "count" : "1171616"
+      }, {
+        "item" : "31/08/2025",
+        "count" : "1168501"
+      }, {
+        "item" : "31/07/2025",
+        "count" : "1166265"
+      }, {
+        "item" : "30/06/2025",
+        "count" : "1164275"
+      }, {
+        "item" : "31/05/2025",
+        "count" : "1161189"
+      }, {
+        "item" : "31/03/2025",
+        "count" : "1153671"
+      }, {
+        "item" : "31/12/24",
+        "count" : "1149467"
+      }, {
+        "item" : "28/02/25",
+        "count" : "1148770"
+      } ],
+      "smallest" : "28/02/2026",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507231,
+    "name" : "NOM_RPT",
+    "dataTypeName" : "text",
+    "description" : "Nombre del Reporte a Consultar",
+    "fieldName" : "nom_rpt",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767796,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "REPORTE VICTIMAS ANUALIZADO, CIFRA MUNICIPAL (SEXO, ETNIA, DISCAPACIDAD, CICLO_VITAL) personas: (Ocurrencia, Declaración y Eventos)",
+      "null" : "0",
+      "top" : [ {
+        "item" : "REPORTE VICTIMAS ANUALIZADO, CIFRA MUNICIPAL (SEXO, ETNIA, DISCAPACIDAD, CICLO_VITAL) personas: (Ocurrencia, Declaraci�n y Eventos)",
+        "count" : "21121786"
+      }, {
+        "item" : "REPORTE VICTIMAS ANUALIZADO, CIFRA MUNICIPAL (SEXO, ETNIA, DISCAPACIDAD, CICLO_VITAL) personas: (Ocurrencia, Declaración y Eventos)",
+        "count" : "15808705"
+      } ],
+      "smallest" : "REPORTE VICTIMAS ANUALIZADO, CIFRA MUNICIPAL (SEXO, ETNIA, DISCAPACIDAD, CICLO_VITAL) personas: (Ocurrencia, Declaraci�n y Eventos)",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507230,
+    "name" : "COD_PAIS",
+    "dataTypeName" : "text",
+    "description" : "Código Correspondiente al País donde se registró el hecho victimizante",
+    "fieldName" : "cod_pais",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767795,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "48",
+      "null" : "0",
+      "top" : [ {
+        "item" : "48",
+        "count" : "36930491"
+      } ],
+      "smallest" : "48",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507229,
+    "name" : "PAIS",
+    "dataTypeName" : "text",
+    "description" : "Nombre Correspondiente al País donde se registró el hecho victimizante",
+    "fieldName" : "pais",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767794,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "COLOMBIA",
+      "null" : "0",
+      "top" : [ {
+        "item" : "COLOMBIA",
+        "count" : "36930491"
+      } ],
+      "smallest" : "COLOMBIA",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507228,
+    "name" : "COD_ESTADO_DEPTO",
+    "dataTypeName" : "text",
+    "description" : "Código Correspondiente la ubicación geográfica del Estado que desea consultar",
+    "fieldName" : "cod_estado_depto",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767793,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "99",
+      "null" : "0",
+      "top" : [ {
+        "item" : "5",
+        "count" : "5337178"
+      }, {
+        "item" : "52",
+        "count" : "2409369"
+      }, {
+        "item" : "19",
+        "count" : "2333550"
+      }, {
+        "item" : "13",
+        "count" : "2055058"
+      }, {
+        "item" : "76",
+        "count" : "1870758"
+      }, {
+        "item" : "27",
+        "count" : "1698865"
+      }, {
+        "item" : "23",
+        "count" : "1516596"
+      }, {
+        "item" : "73",
+        "count" : "1459076"
+      }, {
+        "item" : "20",
+        "count" : "1444518"
+      }, {
+        "item" : "25",
+        "count" : "1430623"
+      }, {
+        "item" : "68",
+        "count" : "1402239"
+      }, {
+        "item" : "47",
+        "count" : "1329785"
+      }, {
+        "item" : "70",
+        "count" : "1309908"
+      }, {
+        "item" : "54",
+        "count" : "1211652"
+      }, {
+        "item" : "50",
+        "count" : "1179096"
+      }, {
+        "item" : "41",
+        "count" : "1124052"
+      }, {
+        "item" : "18",
+        "count" : "1000393"
+      }, {
+        "item" : "86",
+        "count" : "957395"
+      }, {
+        "item" : "15",
+        "count" : "789063"
+      }, {
+        "item" : "44",
+        "count" : "753897"
+      } ],
+      "smallest" : "0",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507227,
+    "name" : "ESTADO_DEPTO",
+    "dataTypeName" : "text",
+    "description" : "Nombre Correspondiente la ubicación geográfica del Estado que desea consultar",
+    "fieldName" : "estado_depto",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767792,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "Vichada",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Antioquia",
+        "count" : "5337178"
+      }, {
+        "item" : "Cauca",
+        "count" : "2333550"
+      }, {
+        "item" : "Bolivar",
+        "count" : "2055058"
+      }, {
+        "item" : "Valle del Cauca",
+        "count" : "1870758"
+      }, {
+        "item" : "Choco",
+        "count" : "1698865"
+      }, {
+        "item" : "Cordoba",
+        "count" : "1516596"
+      }, {
+        "item" : "Tolima",
+        "count" : "1459076"
+      }, {
+        "item" : "Cesar",
+        "count" : "1444518"
+      }, {
+        "item" : "Cundinamarca",
+        "count" : "1430623"
+      }, {
+        "item" : "Santander",
+        "count" : "1402239"
+      }, {
+        "item" : "Nari�o",
+        "count" : "1378627"
+      }, {
+        "item" : "Magdalena",
+        "count" : "1329785"
+      }, {
+        "item" : "Sucre",
+        "count" : "1309908"
+      }, {
+        "item" : "Norte De Santander",
+        "count" : "1211652"
+      }, {
+        "item" : "Meta",
+        "count" : "1179096"
+      }, {
+        "item" : "Huila",
+        "count" : "1124052"
+      }, {
+        "item" : "Nariño",
+        "count" : "1030742"
+      }, {
+        "item" : "Caqueta",
+        "count" : "1000393"
+      }, {
+        "item" : "Putumayo",
+        "count" : "957395"
+      }, {
+        "item" : "Boyaca",
+        "count" : "789063"
+      } ],
+      "smallest" : "Amazonas",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507226,
+    "name" : "COD_CIUDAD_MUNI",
+    "dataTypeName" : "text",
+    "description" : "Corresponde al Código de la ciudad o municipio que desea consultar. ",
+    "fieldName" : "cod_ciudad_muni",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767791,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "99773",
+      "null" : "0",
+      "top" : [ {
+        "item" : "11001",
+        "count" : "240693"
+      }, {
+        "item" : "5001",
+        "count" : "198969"
+      }, {
+        "item" : "76001",
+        "count" : "184402"
+      }, {
+        "item" : "76109",
+        "count" : "183906"
+      }, {
+        "item" : "52835",
+        "count" : "177337"
+      }, {
+        "item" : "5837",
+        "count" : "163885"
+      }, {
+        "item" : "20001",
+        "count" : "157741"
+      }, {
+        "item" : "5045",
+        "count" : "157601"
+      }, {
+        "item" : "52001",
+        "count" : "138011"
+      }, {
+        "item" : "0",
+        "count" : "137952"
+      }, {
+        "item" : "47001",
+        "count" : "135022"
+      }, {
+        "item" : "23001",
+        "count" : "132723"
+      }, {
+        "item" : "27001",
+        "count" : "131733"
+      }, {
+        "item" : "19001",
+        "count" : "130641"
+      }, {
+        "item" : "18001",
+        "count" : "129293"
+      }, {
+        "item" : "70001",
+        "count" : "127936"
+      }, {
+        "item" : "23807",
+        "count" : "127477"
+      }, {
+        "item" : "13001",
+        "count" : "121300"
+      }, {
+        "item" : "27615",
+        "count" : "119756"
+      }, {
+        "item" : "5172",
+        "count" : "118720"
+      } ],
+      "smallest" : "0",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507225,
+    "name" : "CIUDAD_MUNICIPIO",
+    "dataTypeName" : "text",
+    "description" : "Corresponde al año al que pertenece la estadística",
+    "fieldName" : "ciudad_municipio",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767790,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "Zona Bananera",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Bogota, D.C.",
+        "count" : "240693"
+      }, {
+        "item" : "Medellin",
+        "count" : "198969"
+      }, {
+        "item" : "Cali",
+        "count" : "184402"
+      }, {
+        "item" : "Buenaventura",
+        "count" : "183906"
+      }, {
+        "item" : "Riosucio",
+        "count" : "182526"
+      }, {
+        "item" : "San Andres De Tumaco",
+        "count" : "177337"
+      }, {
+        "item" : "Turbo",
+        "count" : "163885"
+      }, {
+        "item" : "Valledupar",
+        "count" : "157741"
+      }, {
+        "item" : "Apartado",
+        "count" : "157601"
+      }, {
+        "item" : "Florencia",
+        "count" : "152500"
+      }, {
+        "item" : "Argelia",
+        "count" : "145440"
+      }, {
+        "item" : "Bolivar",
+        "count" : "139194"
+      }, {
+        "item" : "Pasto",
+        "count" : "138011"
+      }, {
+        "item" : "SIN DEFINIR",
+        "count" : "137952"
+      }, {
+        "item" : "Santa Marta",
+        "count" : "135022"
+      }, {
+        "item" : "Monteria",
+        "count" : "132723"
+      }, {
+        "item" : "Quibdo",
+        "count" : "131733"
+      }, {
+        "item" : "Popayan",
+        "count" : "130641"
+      }, {
+        "item" : "Sincelejo",
+        "count" : "127936"
+      }, {
+        "item" : "Morales",
+        "count" : "127586"
+      } ],
+      "smallest" : "Abejorral",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507224,
+    "name" : "VIGENCIA",
+    "dataTypeName" : "text",
+    "description" : "Corresponde al año al que pertenece la estadística",
+    "fieldName" : "vigencia",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767789,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "2026",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2013",
+        "count" : "1588919"
+      }, {
+        "item" : "2014",
+        "count" : "1587606"
+      }, {
+        "item" : "2015",
+        "count" : "1508270"
+      }, {
+        "item" : "2012",
+        "count" : "1502744"
+      }, {
+        "item" : "2002",
+        "count" : "1426819"
+      }, {
+        "item" : "2008",
+        "count" : "1407867"
+      }, {
+        "item" : "2007",
+        "count" : "1380439"
+      }, {
+        "item" : "2006",
+        "count" : "1319053"
+      }, {
+        "item" : "2005",
+        "count" : "1294897"
+      }, {
+        "item" : "2001",
+        "count" : "1289621"
+      }, {
+        "item" : "2009",
+        "count" : "1257801"
+      }, {
+        "item" : "2004",
+        "count" : "1254261"
+      }, {
+        "item" : "2011",
+        "count" : "1210032"
+      }, {
+        "item" : "2003",
+        "count" : "1198698"
+      }, {
+        "item" : "2010",
+        "count" : "1174672"
+      }, {
+        "item" : "2000",
+        "count" : "1141198"
+      }, {
+        "item" : "2023",
+        "count" : "1067704"
+      }, {
+        "item" : "2022",
+        "count" : "1045072"
+      }, {
+        "item" : "2024",
+        "count" : "967073"
+      }, {
+        "item" : "2016",
+        "count" : "909070"
+      } ],
+      "smallest" : "1985",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507223,
+    "name" : "SEXO",
+    "dataTypeName" : "text",
+    "description" : "Corresponde al sexo o la identidad de género o la  orientación sexual Expresada por las víctimas",
+    "fieldName" : "sexo",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767788,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "Sin Informaci�n",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Hombre",
+        "count" : "18418140"
+      }, {
+        "item" : "Mujer",
+        "count" : "18124286"
+      }, {
+        "item" : "LGBTI",
+        "count" : "332205"
+      }, {
+        "item" : "Intersexual",
+        "count" : "34161"
+      }, {
+        "item" : "No Informa",
+        "count" : "16750"
+      }, {
+        "item" : "Sin Informaci�n",
+        "count" : "4949"
+      } ],
+      "smallest" : "Hombre",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507222,
+    "name" : "ETNIA",
+    "dataTypeName" : "text",
+    "description" : "Personas Categorizadas por Pertenencia Étnica  Valores: •\tIndígena •\tGitano(a) ROM •\tRaizal del Archipielago de San Andres y Providencia •\tNegro(a) o Afrocolombiano(a) •\tPalenquero •\tNinguna",
+    "fieldName" : "etnia",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767787,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "Raizal del Archipielago de San Andres y Providencia",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Ninguna",
+        "count" : "21663922"
+      }, {
+        "item" : "Negro(a) o Afrocolombiano(a)",
+        "count" : "6158486"
+      }, {
+        "item" : "Indigena (Acreditado RA)",
+        "count" : "3636021"
+      }, {
+        "item" : "Indigena",
+        "count" : "3559661"
+      }, {
+        "item" : "Afrocolombiano (Acreditado RA)",
+        "count" : "936473"
+      }, {
+        "item" : "Raizal del Archipielago de San Andres y Providencia",
+        "count" : "461081"
+      }, {
+        "item" : "Gitano(a) ROM",
+        "count" : "293259"
+      }, {
+        "item" : "Palenquero",
+        "count" : "178059"
+      }, {
+        "item" : "Gitano (RROM) (Acreditado RA)",
+        "count" : "41008"
+      }, {
+        "item" : "Negro (Acreditado RA)",
+        "count" : "2117"
+      }, {
+        "item" : "Palenquero (Acreditado RA)",
+        "count" : "404"
+      } ],
+      "smallest" : "Afrocolombiano (Acreditado RA)",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507221,
+    "name" : "DISCAPACIDAD",
+    "dataTypeName" : "text",
+    "description" : "Personas que han manifestado tener una situación de discapacidad Valores: •\tSI •\tNO",
+    "fieldName" : "discapacidad",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767786,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "Visual",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Ninguna",
+        "count" : "23255960"
+      }, {
+        "item" : "Fisica",
+        "count" : "3414602"
+      }, {
+        "item" : "Por Establecer",
+        "count" : "3341363"
+      }, {
+        "item" : "Multiple",
+        "count" : "2514247"
+      }, {
+        "item" : "Visual",
+        "count" : "1602748"
+      }, {
+        "item" : "Auditiva",
+        "count" : "1301848"
+      }, {
+        "item" : "Intelectual",
+        "count" : "1112389"
+      }, {
+        "item" : "Psicosocial (Mental)",
+        "count" : "387334"
+      } ],
+      "smallest" : "Auditiva",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507220,
+    "name" : "CICLO_VITAL",
+    "dataTypeName" : "text",
+    "description" : "Intervalo de Edades Registradas de las Victimas con calculo a la fecha de corte  Valores: entre 0 y 5 •\tentre 12 y 17 •\tentre 18 y 28 •\tentre 29 y 60 •\tentre 6 y 11 •\tentre 61 y 100 •\tND",
+    "fieldName" : "ciclo_vital",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767785,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "ND",
+      "null" : "0",
+      "top" : [ {
+        "item" : "entre 29 y 59",
+        "count" : "8751958"
+      }, {
+        "item" : "entre 60 y 110",
+        "count" : "7318562"
+      }, {
+        "item" : "entre 18 y 28",
+        "count" : "6780589"
+      }, {
+        "item" : "entre 12 y 17",
+        "count" : "4324799"
+      }, {
+        "item" : "entre 6 y 11",
+        "count" : "3042149"
+      }, {
+        "item" : "entre 29 y 60",
+        "count" : "2313793"
+      }, {
+        "item" : "entre 61 y 100",
+        "count" : "1822240"
+      }, {
+        "item" : "entre 0 y 5",
+        "count" : "1383686"
+      }, {
+        "item" : "ND",
+        "count" : "1192715"
+      } ],
+      "smallest" : "entre 0 y 5",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507219,
+    "name" : "PER_OCU",
+    "dataTypeName" : "text",
+    "description" : "Número de Personas por Ocurrencia (Persona afectada por un hecho victizante en el territorio)",
+    "fieldName" : "per_ocu",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767784,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "999",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1",
+        "count" : "12551820"
+      }, {
+        "item" : "0",
+        "count" : "8362199"
+      }, {
+        "item" : "2",
+        "count" : "4150746"
+      }, {
+        "item" : "3",
+        "count" : "2173371"
+      }, {
+        "item" : "4",
+        "count" : "1363953"
+      }, {
+        "item" : "5",
+        "count" : "965564"
+      }, {
+        "item" : "6",
+        "count" : "735644"
+      }, {
+        "item" : "7",
+        "count" : "586606"
+      }, {
+        "item" : "8",
+        "count" : "477802"
+      }, {
+        "item" : "9",
+        "count" : "395106"
+      }, {
+        "item" : "10",
+        "count" : "337494"
+      }, {
+        "item" : "11",
+        "count" : "292320"
+      }, {
+        "item" : "12",
+        "count" : "254878"
+      }, {
+        "item" : "13",
+        "count" : "225371"
+      }, {
+        "item" : "14",
+        "count" : "198829"
+      }, {
+        "item" : "15",
+        "count" : "181789"
+      }, {
+        "item" : "16",
+        "count" : "165000"
+      }, {
+        "item" : "17",
+        "count" : "149022"
+      }, {
+        "item" : "18",
+        "count" : "136673"
+      }, {
+        "item" : "19",
+        "count" : "123449"
+      } ],
+      "smallest" : "0",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507218,
+    "name" : "PER_DECLA",
+    "dataTypeName" : "text",
+    "description" : "Número de Personas con Declaración (Realizaron su declaración en el territorio)",
+    "fieldName" : "per_decla",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767783,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "9998",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0",
+        "count" : "16990949"
+      }, {
+        "item" : "1",
+        "count" : "8389887"
+      }, {
+        "item" : "2",
+        "count" : "2850072"
+      }, {
+        "item" : "3",
+        "count" : "1525679"
+      }, {
+        "item" : "4",
+        "count" : "982192"
+      }, {
+        "item" : "5",
+        "count" : "699714"
+      }, {
+        "item" : "6",
+        "count" : "525921"
+      }, {
+        "item" : "7",
+        "count" : "411469"
+      }, {
+        "item" : "8",
+        "count" : "335392"
+      }, {
+        "item" : "9",
+        "count" : "281920"
+      }, {
+        "item" : "10",
+        "count" : "240401"
+      }, {
+        "item" : "11",
+        "count" : "205239"
+      }, {
+        "item" : "12",
+        "count" : "182853"
+      }, {
+        "item" : "13",
+        "count" : "164130"
+      }, {
+        "item" : "14",
+        "count" : "143759"
+      }, {
+        "item" : "15",
+        "count" : "131271"
+      }, {
+        "item" : "16",
+        "count" : "117110"
+      }, {
+        "item" : "17",
+        "count" : "107657"
+      }, {
+        "item" : "18",
+        "count" : "98613"
+      }, {
+        "item" : "19",
+        "count" : "91224"
+      } ],
+      "smallest" : "0",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  }, {
+    "id" : 487507217,
+    "name" : "EVENTOS",
+    "dataTypeName" : "text",
+    "description" : "Número de Eventos Registrados (Ocurrencia de un hecho victimizante a una persona, en un lugar (municipio) y en una fecha determinada.)",
+    "fieldName" : "eventos",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 111767782,
+    "cachedContents" : {
+      "non_null" : "36930491",
+      "largest" : "999",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1",
+        "count" : "10707853"
+      }, {
+        "item" : "0",
+        "count" : "8362199"
+      }, {
+        "item" : "2",
+        "count" : "4846526"
+      }, {
+        "item" : "3",
+        "count" : "2394648"
+      }, {
+        "item" : "4",
+        "count" : "1553502"
+      }, {
+        "item" : "5",
+        "count" : "1056570"
+      }, {
+        "item" : "6",
+        "count" : "807862"
+      }, {
+        "item" : "7",
+        "count" : "630850"
+      }, {
+        "item" : "8",
+        "count" : "520228"
+      }, {
+        "item" : "9",
+        "count" : "431130"
+      }, {
+        "item" : "10",
+        "count" : "366226"
+      }, {
+        "item" : "11",
+        "count" : "318007"
+      }, {
+        "item" : "12",
+        "count" : "277302"
+      }, {
+        "item" : "13",
+        "count" : "245047"
+      }, {
+        "item" : "14",
+        "count" : "217052"
+      }, {
+        "item" : "15",
+        "count" : "194078"
+      }, {
+        "item" : "16",
+        "count" : "174730"
+      }, {
+        "item" : "17",
+        "count" : "162035"
+      }, {
+        "item" : "18",
+        "count" : "146337"
+      }, {
+        "item" : "19",
+        "count" : "134500"
+      } ],
+      "smallest" : "0",
+      "count" : "36930491",
+      "cardinality" : "36930491"
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "license" : {
+    "name" : "Creative Commons Attribution | Share Alike 4.0 International",
+    "logoUrl" : "images/licenses/cc30bysa.png",
+    "termsLink" : "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "metadata" : {
+    "custom_fields" : {
+      "Información de la Entidad" : {
+        "Municipio" : "Bogotá D.C.",
+        "Nombre de la Entidad" : "Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas, Bogotá D.C.",
+        "DIVIPOLA Municipio" : "11001",
+        "Orden" : "Nacional",
+        "Sector" : "Inclusión Social y Reconciliación",
+        "Departamento" : "Bogotá D.C."
+      },
+      "Información de Datos" : {
+        "Cobertura Geográfica" : "Nacional",
+        "Idioma" : "Español",
+        "Frecuencia de Actualización" : "Mensual"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "canp-zw9a",
+    "displayName" : "Unidad para las Victimas",
+    "screenName" : "Unidad para las Victimas",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "canp-zw9a",
+    "displayName" : "Unidad para las Victimas",
+    "screenName" : "Unidad para las Victimas",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "unidad para las víctimas", "cifras", "hechos victimizantes", "registro único de víctimas" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

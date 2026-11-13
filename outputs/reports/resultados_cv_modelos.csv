@@ -1,0 +1,11 @@
+﻿escenario,modelo,PR-AUC (CV),DE PR-AUC,ROC-AUC (CV),mejores hiperparámetros
+A,Regresión Logística,0.719547782891208,0.032357842467821904,0.8671302857206673,{'model__C': 1000}
+A,KNN,0.5962759546181311,0.09057416779957725,0.8085253474490622,"{'model__n_neighbors': 5, 'model__weights': 'distance'}"
+A,Árbol de Decisión,0.47895806795178836,0.024890303673828877,0.7602621516435779,"{'model__max_depth': 7, 'model__min_samples_leaf': 50}"
+A,Random Forest,0.6701746694059063,0.06707680486806006,0.8504546850483832,"{'model__max_depth': 10, 'model__min_samples_leaf': 1, 'model__n_estimators': 400}"
+A,XGBoost,0.659725142215147,0.05825316870271162,0.837683066150728,"{'model__learning_rate': 0.1, 'model__max_depth': 3, 'model__n_estimators': 200}"
+B,Regresión Logística,0.7559738819377454,0.034841099882991354,0.8841228984147722,{'model__C': 1000}
+B,KNN,0.6711027309399593,0.08846115121794229,0.8529667934178715,"{'model__n_neighbors': 31, 'model__weights': 'distance'}"
+B,Árbol de Decisión,0.6053242803372378,0.04223454155263501,0.844675511332228,"{'model__max_depth': 5, 'model__min_samples_leaf': 50}"
+B,Random Forest,0.7303043191809736,0.03157511496011595,0.8869222238973483,"{'model__max_depth': None, 'model__min_samples_leaf': 1, 'model__n_estimators': 400}"
+B,XGBoost,0.7047400199239489,0.028934038051484073,0.8775140347644493,"{'model__learning_rate': 0.05, 'model__max_depth': 5, 'model__n_estimators': 200}"

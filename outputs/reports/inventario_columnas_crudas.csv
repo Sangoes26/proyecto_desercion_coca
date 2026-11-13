@@ -1,0 +1,175 @@
+﻿fuente,columna,no_nulos,pct_faltante,valores_unicos,ejemplo
+MEN,a_o,15707,0.0,14,2011
+MEN,c_digo_municipio,15707,0.0,1272,5001
+MEN,municipio,15707,0.0,1038,Medellín
+MEN,c_digo_departamento,15707,0.0,36,5
+MEN,departamento,15707,0.0,36,Antioquia
+MEN,c_digo_etc,15707,0.0,194,3759
+MEN,etc,15707,0.0,100,Medellín
+MEN,poblaci_n_5_16,15701,0.0,8884,386466
+MEN,tasa_matriculaci_n_5_16,15592,0.7,5994,108.73
+MEN,cobertura_neta,15596,0.7,5489,108.5
+MEN,cobertura_neta_transici_n,15655,0.3,5175,79.8
+MEN,cobertura_neta_primaria,15616,0.6,5465,107.2
+MEN,cobertura_neta_secundaria,15613,0.6,5772,94.8
+MEN,cobertura_neta_media,15614,0.6,5222,59.7
+MEN,cobertura_bruta,15639,0.4,6403,125.4
+MEN,cobertura_bruta_transici_n,15610,0.6,6520,95.4
+MEN,cobertura_bruta_primaria,15626,0.5,6813,127.3
+MEN,cobertura_bruta_secundaria,15619,0.6,7033,137.5
+MEN,cobertura_bruta_media,15580,0.8,6933,111.2
+MEN,tama_o_promedio_de_grupo,7572,51.8,4232,31.55
+MEN,sedes_conectadas_a_internet,7768,50.5,1402,97.37
+MEN,deserci_n,15565,0.9,1090,3.69
+MEN,deserci_n_transici_n,14804,5.7,1179,3.48
+MEN,deserci_n_primaria,15465,1.5,1004,3.43
+MEN,deserci_n_secundaria,15437,1.7,1433,4.32
+MEN,deserci_n_media,14973,4.7,1206,2.95
+MEN,aprobaci_n,15682,0.2,2136,96.28
+MEN,aprobaci_n_transici_n,15614,0.6,677,0
+MEN,aprobaci_n_primaria,15682,0.2,1998,96.57
+MEN,aprobaci_n_secundaria,15653,0.3,2932,95.67
+MEN,aprobaci_n_media,15606,0.6,2211,96.88
+MEN,reprobaci_n,15621,0.5,1580,0.03
+MEN,reprobaci_n_transici_n,15614,0.6,677,0
+MEN,reprobaci_n_primaria,15610,0.6,1506,0
+MEN,reprobaci_n_secundaria,15601,0.7,2238,0.01
+MEN,reprobaci_n_media,15562,0.9,1617,0.17
+MEN,repitencia,15564,0.9,1486,4.57
+MEN,repitencia_transici_n,15548,1.0,1010,0.15
+MEN,repitencia_primaria,15559,0.9,1606,3.26
+MEN,repitencia_secundaria,15555,1.0,1883,7.44
+MEN,repitencia_media,15568,0.9,998,2.95
+Coca (SIMCI),coddepto,319,0.0,24,91
+Coca (SIMCI),departamento,319,0.0,24,AMAZONAS
+Coca (SIMCI),codmpio,319,0.0,319,91263
+Coca (SIMCI),municipio,319,0.0,305,EL ENCANTO (Cor. Departamental)
+Coca (SIMCI),_2001,164,48.6,149,191.82
+Coca (SIMCI),_2002,168,47.3,126,264
+Coca (SIMCI),_2003,189,40.8,175,164
+Coca (SIMCI),_2004,190,40.4,165,270
+Coca (SIMCI),_2005,190,40.4,143,382
+Coca (SIMCI),_2006,199,37.6,147,233
+Coca (SIMCI),_2007,195,38.9,151,186
+Coca (SIMCI),_2008,206,35.4,147,349
+Coca (SIMCI),_2009,217,32.0,150,109
+Coca (SIMCI),_2010,207,35.1,147,81
+Coca (SIMCI),_2011,205,35.7,145,35
+Coca (SIMCI),_2012,212,33.5,128,16
+Coca (SIMCI),_2013,203,36.4,114,8
+Coca (SIMCI),_2014,204,36.1,127,20
+Coca (SIMCI),_2015,192,39.8,189,11.77
+Coca (SIMCI),_2016,183,42.6,181,12.65
+Coca (SIMCI),_2017,186,41.7,186,8.04
+Coca (SIMCI),_2018,187,41.4,187,4.12
+Coca (SIMCI),_2019,176,44.8,174,2.52
+Coca (SIMCI),_2020,172,46.1,172,61.45
+Coca (SIMCI),_2021,181,43.3,181,72.76
+Coca (SIMCI),_2022,185,42.0,183,103.39
+Coca (SIMCI),_2023,181,43.3,181,65.97
+Coca (SIMCI),_2024,180,43.6,180,66.41
+"Víctimas (RUV, agregada)",cod_ciudad_muni,2997,0.0,1078,0
+"Víctimas (RUV, agregada)",vigencia,2997,0.0,3,2021
+"Víctimas (RUV, agregada)",per_ocu,2997,0.0,720,12
+"Víctimas (RUV, agregada)",fecha_corte,2997,0.0,1,31/08/2026
+"Víctimas (RUV, muestra cruda)",fecha_corte,2000,0.0,2,31/03/2025
+"Víctimas (RUV, muestra cruda)",nom_rpt,2000,0.0,2,"REPORTE VICTIMAS ANUALIZADO, CIFRA MUNICIPAL (SEXO, ETNIA, DISCAPACIDAD, CICLO_VITAL) personas: (Ocurrencia, Declaración y Eventos)"
+"Víctimas (RUV, muestra cruda)",cod_pais,2000,0.0,1,48
+"Víctimas (RUV, muestra cruda)",pais,2000,0.0,1,COLOMBIA
+"Víctimas (RUV, muestra cruda)",cod_estado_depto,2000,0.0,3,0
+"Víctimas (RUV, muestra cruda)",estado_depto,2000,0.0,3,SIN DEFINIR
+"Víctimas (RUV, muestra cruda)",cod_ciudad_muni,2000,0.0,3,0
+"Víctimas (RUV, muestra cruda)",ciudad_municipio,2000,0.0,3,SIN DEFINIR
+"Víctimas (RUV, muestra cruda)",vigencia,2000,0.0,27,1985
+"Víctimas (RUV, muestra cruda)",sexo,2000,0.0,5,Hombre
+"Víctimas (RUV, muestra cruda)",etnia,2000,0.0,9,Afrocolombiano (Acreditado RA)
+"Víctimas (RUV, muestra cruda)",discapacidad,2000,0.0,8,Fisica
+"Víctimas (RUV, muestra cruda)",ciclo_vital,2000,0.0,7,entre 60 y 110
+"Víctimas (RUV, muestra cruda)",per_ocu,2000,0.0,171,1
+"Víctimas (RUV, muestra cruda)",per_decla,2000,0.0,125,0
+"Víctimas (RUV, muestra cruda)",eventos,2000,0.0,176,1
+PDET,cod_subreg,170,0.0,16,1
+PDET,nom_subreg,170,0.0,16,ALTO PATÍA Y NORTE DEL CAUCA
+PDET,cod_depto,170,0.0,19,19
+PDET,nom_depto,170,0.0,19,CAUCA
+PDET,cod_muni,170,0.0,170,19050
+PDET,nom_muni,170,0.0,168,ARGELIA
+IPM,ID,1122,0.0,1122,05001
+IPM,Municipio,1122,0.0,1037,MEDELLÍN
+IPM,IPM Municipal,1122,0.0,528,12.8
+IPM por zona,ID,1122,0.0,1122,05001
+IPM por zona,Municipio,1122,0.0,1037,MEDELLÍN
+IPM por zona,IPM,1122,0.0,528,12.8
+IPM por zona,Cabeceras,1122,0.0,452,12.6
+IPM por zona,IPM Centros poblados y rural disperso,1122,0.0,542,22.9
+Privaciones IPM,ID,1122,0.0,1122,05001
+Privaciones IPM,Municipio,1122,0.0,1037,MEDELLÍN
+Privaciones IPM,Analfabetismo,1122,0.0,323,5.0
+Privaciones IPM,Bajo logro educativo,1122,0.0,419,35.2
+Privaciones IPM,Barreras a servicios para cuidado de la primera infancia,1122,0.0,113,1.4
+Privaciones IPM,Barreras de acceso a servicios de salud,1122,0.0,163,2.6
+Privaciones IPM,Tasa de dependencia,1122,0.0,441,22.8
+Privaciones IPM,Hacinamiento crítico,1122,0.0,265,5.4
+Privaciones IPM,Inadecuada eliminación de excretas,1122,0.0,496,2.0
+Privaciones IPM,Inasistencia escolar,1122,0.0,145,3.1
+Privaciones IPM,Material inadecuado de paredes exteriores,1122,0.0,214,0.7
+Privaciones IPM,Material inadecuado de pisos,1122,0.0,406,0.2
+Privaciones IPM,Rezago escolar,1122,0.0,290,12.5
+Privaciones IPM,Sin acceso a fuente de agua mejorada,1122,0.0,539,1.5
+Privaciones IPM,Sin aseguramiento en salud,1122,0.0,219,15.9
+Privaciones IPM,Trabajo infantil,1122,0.0,75,0.5
+Privaciones IPM,Trabajo informal,1122,0.0,275,71.0
+Privaciones IPM por zona,ID / Unnamed: 0_level_1,1122,0.0,1122,5001
+Privaciones IPM por zona,Municipio / Unnamed: 1_level_1,1122,0.0,1037,MEDELLÍN
+Privaciones IPM por zona,Analfabetismo / Total,1122,0.0,323,5.0
+Privaciones IPM por zona,Analfabetismo / Cabeceras,1122,0.0,255,4.9
+Privaciones IPM por zona,Analfabetismo / Centros poblados y rural disperso,1122,0.0,349,11.6
+Privaciones IPM por zona,Bajo logro educativo / Total,1122,0.0,419,35.2
+Privaciones IPM por zona,Bajo logro educativo / Cabeceras,1122,0.0,376,34.9
+Privaciones IPM por zona,Bajo logro educativo / Centros poblados y rural disperso,1122,0.0,361,54.4
+Privaciones IPM por zona,Barreras a servicios para cuidado de la primera infancia / Total,1122,0.0,113,1.4
+Privaciones IPM por zona,Barreras a servicios para cuidado de la primera infancia / Cabeceras,1122,0.0,59,1.4
+Privaciones IPM por zona,Barreras a servicios para cuidado de la primera infancia / Centros poblados y rural disperso,1122,0.0,134,2.0
+Privaciones IPM por zona,Barreras de acceso a servicios de salud / Total,1122,0.0,163,2.6
+Privaciones IPM por zona,Barreras de acceso a servicios de salud / Cabeceras,1122,0.0,149,2.6
+Privaciones IPM por zona,Barreras de acceso a servicios de salud / Centros poblados y rural disperso,1122,0.0,191,3.0
+Privaciones IPM por zona,Tasa de dependencia / Total,1122,0.0,441,22.8
+Privaciones IPM por zona,Tasa de dependencia / Cabeceras,1122,0.0,403,22.8
+Privaciones IPM por zona,Tasa de dependencia / Centros poblados y rural disperso,1122,0.0,454,23.7
+Privaciones IPM por zona,Hacinamiento crítico / Total,1122,0.0,265,5.4
+Privaciones IPM por zona,Hacinamiento crítico / Cabeceras,1122,0.0,264,5.5
+Privaciones IPM por zona,Hacinamiento crítico / Centros poblados y rural disperso,1122,0.0,255,3.1
+Privaciones IPM por zona,Inadecuada eliminación de excretas / Total,1122,0.0,496,2.0
+Privaciones IPM por zona,Inadecuada eliminación de excretas / Cabeceras,1122,0.0,354,1.7
+Privaciones IPM por zona,Inadecuada eliminación de excretas / Centros poblados y rural disperso,1122,0.0,558,15.7
+Privaciones IPM por zona,Inasistencia escolar / Total,1122,0.0,145,3.1
+Privaciones IPM por zona,Inasistencia escolar / Cabeceras,1122,0.0,102,3.1
+Privaciones IPM por zona,Inasistencia escolar / Centros poblados y rural disperso,1122,0.0,175,4.8
+Privaciones IPM por zona,Material inadecuado de paredes exteriores / Total,1122,0.0,214,0.7
+Privaciones IPM por zona,Material inadecuado de paredes exteriores / Cabeceras,1122,0.0,248,0.7
+Privaciones IPM por zona,Material inadecuado de paredes exteriores / Centros poblados y rural disperso,1122,0.0,179,0.4
+Privaciones IPM por zona,Material inadecuado de pisos / Total,1122,0.0,406,0.2
+Privaciones IPM por zona,Material inadecuado de pisos / Cabeceras,1122,0.0,234,0.2
+Privaciones IPM por zona,Material inadecuado de pisos / Centros poblados y rural disperso,1122,0.0,497,1.8
+Privaciones IPM por zona,Rezago escolar / Total,1122,0.0,290,12.5
+Privaciones IPM por zona,Rezago escolar / Cabeceras,1122,0.0,250,12.5
+Privaciones IPM por zona,Rezago escolar / Centros poblados y rural disperso,1122,0.0,329,13.9
+Privaciones IPM por zona,Sin acceso a fuente de agua mejorada / Total,1122,0.0,539,1.5
+Privaciones IPM por zona,Sin acceso a fuente de agua mejorada / Cabeceras,1122,0.0,227,1.3
+Privaciones IPM por zona,Sin acceso a fuente de agua mejorada / Centros poblados y rural disperso,1122,0.0,655,16.9
+Privaciones IPM por zona,Sin aseguramiento en salud / Total,1122,0.0,219,15.9
+Privaciones IPM por zona,Sin aseguramiento en salud / Cabeceras,1122,0.0,183,15.9
+Privaciones IPM por zona,Sin aseguramiento en salud / Centros poblados y rural disperso,1122,0.0,245,15.5
+Privaciones IPM por zona,Trabajo infantil / Total,1122,0.0,75,0.5
+Privaciones IPM por zona,Trabajo infantil / Cabeceras,1122,0.0,45,0.5
+Privaciones IPM por zona,Trabajo infantil / Centros poblados y rural disperso,1122,0.0,88,1.1
+Privaciones IPM por zona,Trabajo informal / Total,1122,0.0,275,71.0
+Privaciones IPM por zona,Trabajo informal / Cabeceras,1122,0.0,267,70.9
+Privaciones IPM por zona,Trabajo informal / Centros poblados y rural disperso,1122,0.0,265,77.3
+Población por área,DP,84229,0.0,37,05
+Población por área,DPNOM,84225,0.0,33,Antioquia
+Población por área,MPIO,84225,0.0,1123,05001
+Población por área,DPMP,84225,0.0,1040,Medellín
+Población por área,AÑO,84225,0.0,25,2018.0
+Población por área,ÁREA GEOGRÁFICA,84225,0.0,3,Cabecera Municipal
+Población por área,TOTAL,84225,0.0,34214,2382405.0

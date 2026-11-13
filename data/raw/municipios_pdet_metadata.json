@@ -1,0 +1,574 @@
+{
+  "id" : "idrk-ba8y",
+  "name" : "Municipios PDET",
+  "assetType" : "dataset",
+  "attribution" : "Agencia de Renovación del Territorio - ART, Bogotá D.C.",
+  "attributionLink" : "https://centralpdet.renovacionterritorio.gov.co/conoce-los-pdet/",
+  "averageRating" : 0,
+  "category" : "Agricultura y Desarrollo Rural",
+  "createdAt" : 1507828229,
+  "description" : "Conjunto de datos corresponde a los municipios PDET priorizados basados en los criterios de priorización definidos.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 5309,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "licenseId" : "CC_40_BY_SA",
+  "locale" : "en_US",
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 41410569,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1750958920,
+  "publicationGroup" : 14529862,
+  "publicationStage" : "published",
+  "resourceName" : "Municipios",
+  "rowsUpdatedAt" : 1772652205,
+  "rowsUpdatedBy" : "ws7k-2r3m",
+  "tableId" : 19939129,
+  "totalTimesRated" : 0,
+  "viewCount" : 60642,
+  "viewLastModified" : 1784302812,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1750978061,
+    "reviewedAutomatically" : false,
+    "state" : "approved",
+    "submissionId" : 6942145,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1750958950,
+    "targetAudience" : "public",
+    "workflowId" : 2188,
+    "reviewer" : {
+      "id" : "r4qn-dwdd",
+      "displayName" : "Ministerio de Tecnologías de la Información y las Comunicaciones - Datos Abiertos"
+    },
+    "submissionDetails" : {
+      "permissionType" : "read"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1750978061,
+      "failureCount" : 0,
+      "startedAt" : 1750978061,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "ws7k-2r3m",
+      "displayName" : "Agencia de Renovación del Territorio"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 613067960,
+    "name" : "CodigoSubregion",
+    "dataTypeName" : "number",
+    "description" : "Codigo de la Subregion PDET",
+    "fieldName" : "cod_subreg",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 91026081,
+    "width" : 234,
+    "cachedContents" : {
+      "non_null" : "170",
+      "largest" : "16",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1",
+        "count" : "24"
+      }, {
+        "item" : "6",
+        "count" : "17"
+      }, {
+        "item" : "8",
+        "count" : "15"
+      }, {
+        "item" : "12",
+        "count" : "15"
+      }, {
+        "item" : "5",
+        "count" : "14"
+      }, {
+        "item" : "3",
+        "count" : "13"
+      }, {
+        "item" : "7",
+        "count" : "12"
+      }, {
+        "item" : "10",
+        "count" : "11"
+      }, {
+        "item" : "11",
+        "count" : "9"
+      }, {
+        "item" : "16",
+        "count" : "8"
+      }, {
+        "item" : "4",
+        "count" : "8"
+      }, {
+        "item" : "13",
+        "count" : "7"
+      }, {
+        "item" : "14",
+        "count" : "5"
+      }, {
+        "item" : "15",
+        "count" : "4"
+      }, {
+        "item" : "9",
+        "count" : "4"
+      }, {
+        "item" : "2",
+        "count" : "4"
+      } ],
+      "smallest" : "1",
+      "count" : "170",
+      "cardinality" : "170"
+    },
+    "format" : { }
+  }, {
+    "id" : 613067961,
+    "name" : "NombreSubregion",
+    "dataTypeName" : "text",
+    "description" : "Nombre de la Subregion PDET",
+    "fieldName" : "nom_subreg",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 91026079,
+    "width" : 217,
+    "cachedContents" : {
+      "non_null" : "170",
+      "largest" : "URABÁ ANTIOQUEÑO",
+      "null" : "0",
+      "top" : [ {
+        "item" : "ALTO PATÍA Y NORTE DEL CAUCA",
+        "count" : "24"
+      }, {
+        "item" : "CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO",
+        "count" : "17"
+      }, {
+        "item" : "SIERRA NEVADA - PERIJÁ",
+        "count" : "15"
+      }, {
+        "item" : "MONTES DE MARÍA",
+        "count" : "15"
+      }, {
+        "item" : "CHOCÓ",
+        "count" : "14"
+      }, {
+        "item" : "BAJO CAUCA Y NORDESTE ANTIOQUEÑO",
+        "count" : "13"
+      }, {
+        "item" : "MACARENA - GUAVIARE",
+        "count" : "12"
+      }, {
+        "item" : "PACÍFICO Y FRONTERA NARIÑENSE",
+        "count" : "11"
+      }, {
+        "item" : "PUTUMAYO",
+        "count" : "9"
+      }, {
+        "item" : "URABÁ ANTIOQUEÑO",
+        "count" : "8"
+      }, {
+        "item" : "CATATUMBO",
+        "count" : "8"
+      }, {
+        "item" : "SUR DE BOLÍVAR",
+        "count" : "7"
+      }, {
+        "item" : "SUR DE CÓRDOBA",
+        "count" : "5"
+      }, {
+        "item" : "SUR DEL TOLIMA",
+        "count" : "4"
+      }, {
+        "item" : "ARAUCA",
+        "count" : "4"
+      }, {
+        "item" : "PACÍFICO MEDIO",
+        "count" : "4"
+      } ],
+      "smallest" : "ALTO PATÍA Y NORTE DEL CAUCA",
+      "count" : "170",
+      "cardinality" : "170"
+    },
+    "format" : { }
+  }, {
+    "id" : 613067962,
+    "name" : "CodigoDepartamento",
+    "dataTypeName" : "text",
+    "description" : "Codigo Dane del Departamento",
+    "fieldName" : "cod_depto",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 91026084,
+    "width" : 213,
+    "cachedContents" : {
+      "non_null" : "170",
+      "largest" : "95",
+      "null" : "0",
+      "top" : [ {
+        "item" : "05",
+        "count" : "24"
+      }, {
+        "item" : "19",
+        "count" : "20"
+      }, {
+        "item" : "52",
+        "count" : "16"
+      }, {
+        "item" : "18",
+        "count" : "16"
+      }, {
+        "item" : "13",
+        "count" : "13"
+      }, {
+        "item" : "27",
+        "count" : "12"
+      }, {
+        "item" : "86",
+        "count" : "9"
+      }, {
+        "item" : "54",
+        "count" : "8"
+      }, {
+        "item" : "20",
+        "count" : "8"
+      }, {
+        "item" : "50",
+        "count" : "8"
+      }, {
+        "item" : "70",
+        "count" : "8"
+      }, {
+        "item" : "23",
+        "count" : "5"
+      }, {
+        "item" : "95",
+        "count" : "4"
+      }, {
+        "item" : "73",
+        "count" : "4"
+      }, {
+        "item" : "47",
+        "count" : "4"
+      }, {
+        "item" : "81",
+        "count" : "4"
+      }, {
+        "item" : "76",
+        "count" : "3"
+      }, {
+        "item" : "44",
+        "count" : "3"
+      }, {
+        "item" : "41",
+        "count" : "1"
+      } ],
+      "smallest" : "05",
+      "count" : "170",
+      "cardinality" : "170"
+    },
+    "format" : { }
+  }, {
+    "id" : 613067963,
+    "name" : "NombreDepartamento",
+    "dataTypeName" : "text",
+    "description" : "Nombre del Departamento\t",
+    "fieldName" : "nom_depto",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 91026080,
+    "width" : 162,
+    "cachedContents" : {
+      "non_null" : "170",
+      "largest" : "VALLE DEL CAUCA",
+      "null" : "0",
+      "top" : [ {
+        "item" : "ANTIOQUIA",
+        "count" : "24"
+      }, {
+        "item" : "CAUCA",
+        "count" : "20"
+      }, {
+        "item" : "NARIÑO",
+        "count" : "16"
+      }, {
+        "item" : "CAQUETÁ",
+        "count" : "16"
+      }, {
+        "item" : "BOLÍVAR",
+        "count" : "13"
+      }, {
+        "item" : "CHOCÓ",
+        "count" : "12"
+      }, {
+        "item" : "PUTUMAYO",
+        "count" : "9"
+      }, {
+        "item" : "SUCRE",
+        "count" : "8"
+      }, {
+        "item" : "CESAR",
+        "count" : "8"
+      }, {
+        "item" : "META",
+        "count" : "8"
+      }, {
+        "item" : "NORTE DE SANTANDER",
+        "count" : "8"
+      }, {
+        "item" : "CÓRDOBA",
+        "count" : "5"
+      }, {
+        "item" : "TOLIMA",
+        "count" : "4"
+      }, {
+        "item" : "MAGDALENA",
+        "count" : "4"
+      }, {
+        "item" : "ARAUCA",
+        "count" : "4"
+      }, {
+        "item" : "GUAVIARE",
+        "count" : "4"
+      }, {
+        "item" : "VALLE DEL CAUCA",
+        "count" : "3"
+      }, {
+        "item" : "LA GUAJIRA",
+        "count" : "3"
+      }, {
+        "item" : "HUILA",
+        "count" : "1"
+      } ],
+      "smallest" : "ANTIOQUIA",
+      "count" : "170",
+      "cardinality" : "170"
+    },
+    "format" : { }
+  }, {
+    "id" : 613067964,
+    "name" : "CodigoMunicipio",
+    "dataTypeName" : "text",
+    "description" : "Codigo DANE del Municipio",
+    "fieldName" : "cod_muni",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 91026082,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "170",
+      "largest" : "95200",
+      "null" : "0",
+      "top" : [ {
+        "item" : "05234",
+        "count" : "1"
+      }, {
+        "item" : "54810",
+        "count" : "1"
+      }, {
+        "item" : "19418",
+        "count" : "1"
+      }, {
+        "item" : "81300",
+        "count" : "1"
+      }, {
+        "item" : "18785",
+        "count" : "1"
+      }, {
+        "item" : "13473",
+        "count" : "1"
+      }, {
+        "item" : "13654",
+        "count" : "1"
+      }, {
+        "item" : "47288",
+        "count" : "1"
+      }, {
+        "item" : "86568",
+        "count" : "1"
+      }, {
+        "item" : "05736",
+        "count" : "1"
+      }, {
+        "item" : "86571",
+        "count" : "1"
+      }, {
+        "item" : "95015",
+        "count" : "1"
+      }, {
+        "item" : "18150",
+        "count" : "1"
+      }, {
+        "item" : "70823",
+        "count" : "1"
+      }, {
+        "item" : "18247",
+        "count" : "1"
+      }, {
+        "item" : "23807",
+        "count" : "1"
+      }, {
+        "item" : "27099",
+        "count" : "1"
+      }, {
+        "item" : "18256",
+        "count" : "1"
+      }, {
+        "item" : "41020",
+        "count" : "1"
+      }, {
+        "item" : "70523",
+        "count" : "1"
+      } ],
+      "smallest" : "05031",
+      "count" : "170",
+      "cardinality" : "170"
+    },
+    "format" : { }
+  }, {
+    "id" : 613067965,
+    "name" : "NombreMunicipio",
+    "dataTypeName" : "text",
+    "description" : "Nombre del Municipio",
+    "fieldName" : "nom_muni",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 91026083,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "170",
+      "largest" : "ZARAGOZA",
+      "null" : "0",
+      "top" : [ {
+        "item" : "PUERTO RICO",
+        "count" : "2"
+      }, {
+        "item" : "MORALES",
+        "count" : "2"
+      }, {
+        "item" : "TARAZÁ",
+        "count" : "1"
+      }, {
+        "item" : "EL CHARCO",
+        "count" : "1"
+      }, {
+        "item" : "EL DONCELLO",
+        "count" : "1"
+      }, {
+        "item" : "LA MACARENA",
+        "count" : "1"
+      }, {
+        "item" : "DABEIBA",
+        "count" : "1"
+      }, {
+        "item" : "SUÁREZ",
+        "count" : "1"
+      }, {
+        "item" : "PUERTO LLERAS",
+        "count" : "1"
+      }, {
+        "item" : "EL TARRA",
+        "count" : "1"
+      }, {
+        "item" : "ALGECIRAS",
+        "count" : "1"
+      }, {
+        "item" : "POLICARPA",
+        "count" : "1"
+      }, {
+        "item" : "CANTAGALLO",
+        "count" : "1"
+      }, {
+        "item" : "MAPIRIPÁN",
+        "count" : "1"
+      }, {
+        "item" : "TIERRALTA",
+        "count" : "1"
+      }, {
+        "item" : "ANORÍ",
+        "count" : "1"
+      }, {
+        "item" : "TIBÚ",
+        "count" : "1"
+      }, {
+        "item" : "SAN VICENTE DEL CAGUÁN",
+        "count" : "1"
+      }, {
+        "item" : "MERCADERES",
+        "count" : "1"
+      }, {
+        "item" : "TURBO",
+        "count" : "1"
+      } ],
+      "smallest" : "ACANDÍ",
+      "count" : "170",
+      "cardinality" : "170"
+    },
+    "format" : {
+      "displayStyle" : "plain",
+      "align" : "left"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "license" : {
+    "name" : "Creative Commons Attribution | Share Alike 4.0 International",
+    "logoUrl" : "images/licenses/cc30bysa.png",
+    "termsLink" : "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "metadata" : {
+    "custom_fields" : {
+      "Información de la Entidad" : {
+        "Municipio" : "Bogotá D.C.",
+        "Nombre de la Entidad" : "Agencia de Renovación del Territorio - ART, Bogotá D.C.",
+        "DIVIPOLA Municipio" : "11001",
+        "Orden" : "Nacional",
+        "Sector" : "Presidencia",
+        "Área o dependencia" : "Subdirección de Gestión de Información",
+        "Departamento" : "Bogotá D.C."
+      },
+      "Información de Datos" : {
+        "Cobertura Geográfica" : "Nacional",
+        "Idioma" : "Español",
+        "Frecuencia de Actualización" : "Anual"
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ws7k-2r3m",
+    "displayName" : "Agencia de Renovación del Territorio",
+    "profileImageUrlLarge" : "/api/users/ws7k-2r3m/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/ws7k-2r3m/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/ws7k-2r3m/profile_images/TINY",
+    "screenName" : "Agencia de Renovación del Territorio",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ws7k-2r3m",
+    "displayName" : "Agencia de Renovación del Territorio",
+    "profileImageUrlLarge" : "/api/users/ws7k-2r3m/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/ws7k-2r3m/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/ws7k-2r3m/profile_images/TINY",
+    "screenName" : "Agencia de Renovación del Territorio",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "pdet", "art", "municipio" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}
