@@ -40,7 +40,7 @@ Se necesita Python 3.13 y Git.
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Sangoes26/proyecto_desercion_coca.git
    cd proyecto_desercion_coca
    ```
 
